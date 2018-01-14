@@ -14,6 +14,10 @@ var wconv_workspaceId = 'reemplazar-con-ID-workspace-watson-conversation';
 var wconv_username = 'reemplazar-con-usuario-watson-conversation';
 var wconv_password =  'reeamplazar-con-contraseña-watson-conversation';
 
+var wconv_workspaceId = '1ff19091-d4bf-40f2-adc1-b0c315964b5b';
+var wconv_username = '72372ac0-3e54-4966-a9f3-080dddccaa35';
+var wconv_password =  'qjmT1OCJ23S5';
+
 var app = express();
 var appEnv = cfenv.getAppEnv();
 var session = require('express-session');
